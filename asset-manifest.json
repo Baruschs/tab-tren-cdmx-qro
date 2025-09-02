@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bcb41d27.css",
-    "main.js": "/static/js/main.51a56122.js",
-    "static/js/453.cfb65c2f.chunk.js": "/static/js/453.cfb65c2f.chunk.js",
-    "index.html": "/index.html",
-    "main.bcb41d27.css.map": "/static/css/main.bcb41d27.css.map",
-    "main.51a56122.js.map": "/static/js/main.51a56122.js.map",
-    "453.cfb65c2f.chunk.js.map": "/static/js/453.cfb65c2f.chunk.js.map"
+    "main.css": "/tab-tren-cdmx-qro/static/css/main.bcb41d27.css",
+    "main.js": "/tab-tren-cdmx-qro/static/js/main.e05a7a9f.js",
+    "static/js/453.cfb65c2f.chunk.js": "/tab-tren-cdmx-qro/static/js/453.cfb65c2f.chunk.js",
+    "index.html": "/tab-tren-cdmx-qro/index.html",
+    "main.bcb41d27.css.map": "/tab-tren-cdmx-qro/static/css/main.bcb41d27.css.map",
+    "main.e05a7a9f.js.map": "/tab-tren-cdmx-qro/static/js/main.e05a7a9f.js.map",
+    "453.cfb65c2f.chunk.js.map": "/tab-tren-cdmx-qro/static/js/453.cfb65c2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcb41d27.css",
-    "static/js/main.51a56122.js"
+    "static/js/main.e05a7a9f.js"
   ]
 }
